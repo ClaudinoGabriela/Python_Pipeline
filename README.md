@@ -1,1 +1,3 @@
-# Python_Pipeline
+# Pipeline com Python
+
+Pipeline utilizando Python e MySQL
